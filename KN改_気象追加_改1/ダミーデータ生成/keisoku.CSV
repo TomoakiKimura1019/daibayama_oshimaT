@@ -1,0 +1,53 @@
+$付き関数,String型関数 Trim$ の利用を検討してください.,FileRead.bas,61,関数,ReadKanri,,,,Kanri(1, d_ID).TI1(l_ID) = Trim(SEEKmoji(L, 21, 8))
+$付き関数,String型関数 Trim$ の利用を検討してください.,FileRead.bas,62,関数,ReadKanri,,,,Kanri(1, d_ID).TI2(l_ID) = Trim(SEEKmoji(L, 29, 12))
+未使用変数,関数のﾛｰｶﾙ変数 d_ID は未使用です.,FileRead.bas,76,関数,ReadTabl,,,,
+未使用変数,関数のﾛｰｶﾙ変数 dd_id は未使用です.,FileRead.bas,76,関数,ReadTabl,,,,
+未使用変数,関数のﾛｰｶﾙ変数 m_ID は未使用です.,FileRead.bas,76,関数,ReadTabl,,,,
+未使用変数,関数のﾛｰｶﾙ変数 k_ID は未使用です.,FileRead.bas,77,関数,ReadTabl,,,,
+未使用変数,関数のﾛｰｶﾙ変数 t_id は未使用です.,FileRead.bas,77,関数,ReadTabl,,,,
+未使用変数,関数のﾛｰｶﾙ変数 p_ID は未使用です.,FileRead.bas,77,関数,ReadTabl,,,,
+未使用変数,関数のﾛｰｶﾙ変数 FLDno は未使用です.,FileRead.bas,78,関数,ReadTabl,,,,
+ﾕｰｻﾞｰ定義,判定方法 <> 0 の省略を検討してください.(0以外の数値はTrue),WinAPI.bas,83,関数,GetIni,,,,If i <> 0 Then
+未使用変数,関数のﾛｰｶﾙ変数 i は未使用です.,MainModule.BAS,159,関数,Main,,,,
+未使用変数,関数のﾛｰｶﾙ変数 j は未使用です.,MainModule.BAS,160,関数,Main,,,,
+未使用変数,関数のﾛｰｶﾙ変数 ret は未使用です.,MainModule.BAS,161,関数,Main,,,,
+未使用変数,関数のﾛｰｶﾙ変数 SS1 は未使用です.,MainModule.BAS,162,関数,Main,,,,
+未使用変数,関数のﾛｰｶﾙ変数 t1 は未使用です.,MainModule.BAS,163,関数,Main,,,,
+未使用変数,関数のﾛｰｶﾙ変数 STtime は未使用です.,MainModule.BAS,164,関数,Main,,,,
+未使用変数,関数のﾛｰｶﾙ変数 Stat は未使用です.,MainModule.BAS,250,関数,DAMMYdate,,,,
+暗黙Variant,引数の型が明記されていません(Variantです).,MainModule.BAS,460,,,,,,Dim dds1
+$付き関数,String型関数 Format$ の利用を検討してください.,MainModule.BAS,483,関数,toTMSstring,,,,siv = Format(hh1, "") & ":" & Format$(mm1, "00") & ":" & Format(SS1, "00")
+$付き関数,String型関数 Dir$ の利用を検討してください.,modFile.bas,243,関数,GetTargetFiles,,,,If Right$(DirName, 1) = "\" Then DirName = Left$(DirName, Len(DirName) - 1)
+ﾕｰｻﾞｰ定義,VB関数 StrComp で大小文字区別をしない比較ができます.,modFile.bas,262,関数,GetTargetFiles,,,,If UCase$(Right$(UdtDFL(i).FILENAME, Len(Extension))) = UCase$(Extension) Then
+ﾕｰｻﾞｰ定義,判定方法 <> 0 の省略を検討してください.(0以外の数値はTrue),modFile.bas,359,関数,FindFileName,,,,If lngResult <> 0 Then
+ﾕｰｻﾞｰ定義,判定方法 <> 0 の省略を検討してください.(0以外の数値はTrue),modFile.bas,380,関数,RemoveFileSpec,,,,If lngResult <> 0 Then
+未使用関数,関数 ReadFileUsingAPIFunc は未使用ﾌﾟﾛｼｰｼﾞｬの可能性があります.,modFile.bas,183,関数,ReadFileUsingAPIFunc,,,,
+未使用変数,関数のﾛｰｶﾙ変数 i は未使用です.,Module5.bas,22,関数,ReadcTable,,,,
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Enabled の省略を検討してください.,MainForm.frm,70,関数,Label3_DblClick,,,,Timer1.Enabled = False
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Enabled の省略を検討してください.,MainForm.frm,78,関数,Label3_DblClick,,,,Timer1.Enabled = True
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Enabled の省略を検討してください.,MainForm.frm,83,関数,Label6_DblClick,,,,Timer1.Enabled = False
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Enabled の省略を検討してください.,MainForm.frm,91,関数,Label6_DblClick,,,,Timer1.Enabled = True
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Enabled の省略を検討してください.,MainForm.frm,96,関数,Label7_DblClick,,,,Timer1.Enabled = False
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Enabled の省略を検討してください.,MainForm.frm,104,関数,Label7_DblClick,,,,Timer1.Enabled = True
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Enabled の省略を検討してください.,MainForm.frm,109,関数,Label9_DblClick,,,,Timer1.Enabled = False
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Enabled の省略を検討してください.,MainForm.frm,117,関数,Label9_DblClick,,,,Timer1.Enabled = True
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Enabled の省略を検討してください.,MainForm.frm,200,関数,Form_Load,,,,Timer1.Enabled = True
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Enabled の省略を検討してください.,MainForm.frm,202,関数,Form_Load,,,,Timer2.Enabled = True
+未使用変数,関数のﾛｰｶﾙ変数 ia は未使用です.,MainForm.frm,207,関数,fadd,,,,
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Value の省略を検討してください.,MainForm.frm,278,関数,tmSub,,,,If Check1.Value <> 1 Then keisoku_f = False
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Value の省略を検討してください.,MainForm.frm,279,関数,tmSub,,,,If Check2.Value <> 1 Then kiroku_f = False
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Value の省略を検討してください.,MainForm.frm,329,関数,tmSub,,,,If Check1.Value = 1 Then
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Value の省略を検討してください.,MainForm.frm,341,関数,tmSub,,,,If Check2.Value = 1 Then
+未使用変数,関数のﾛｰｶﾙ変数 ret は未使用です.,MainForm.frm,266,関数,tmSub,,,,
+Publicｽｺｰﾌﾟ,ﾌｫｰﾑ内にPublicがあります.ｽｺｰﾌﾟを検討してください.,MainForm.frm,358,,,,,,Public Sub DataPrint()
+既定ﾌﾟﾛﾊﾟﾃｨ,既定ﾌﾟﾛﾊﾟﾃｨ Caption の省略を検討してください.,MainForm.frm,408,関数,DataPrint,,,,Label10.Caption = kDate
+未使用変数,関数のﾛｰｶﾙ変数 FLDno は未使用です.,MainForm.frm,365,関数,DataPrint,,,,
+暗黙Variant,引数の型が明記されていません(Variantです).,MainForm.frm,475,,,,,,Dim sa, sb As String
+未使用関数,関数 AddMaster は未使用ﾌﾟﾛｼｰｼﾞｬの可能性があります.,MainForm.frm,471,関数,AddMaster,,,,
+ﾓｼﾞｭｰﾙ変数,ﾓｼﾞｭｰﾙﾚﾍﾞﾙ変数 Lebel_time は未使用変数です.,MainModule.BAS,114,,,,,,
+ﾓｼﾞｭｰﾙ変数,ﾓｼﾞｭｰﾙﾚﾍﾞﾙ変数 Lebel_intv は未使用変数です.,MainModule.BAS,115,,,,,,
+ﾓｼﾞｭｰﾙ変数,ﾓｼﾞｭｰﾙﾚﾍﾞﾙ変数 LogDir は未使用変数です.,MainModule.BAS,147,,,,,,
+ﾓｼﾞｭｰﾙ変数,ﾓｼﾞｭｰﾙﾚﾍﾞﾙ変数 KeisokuCO は未使用変数です.,MainModule.BAS,150,,,,,,
+ﾓｼﾞｭｰﾙ変数,ﾓｼﾞｭｰﾙﾚﾍﾞﾙ変数 RSlog は未使用変数です.,MainForm.frm,36,,,,,,
+ﾓｼﾞｭｰﾙ変数,ﾓｼﾞｭｰﾙﾚﾍﾞﾙ変数 seigen は未使用変数です.,MainForm.frm,43,,,,,,
+ﾓｼﾞｭｰﾙ変数,ﾓｼﾞｭｰﾙﾚﾍﾞﾙ変数 LOGFILE はPublicですがPrivate使用です.,MainModule.BAS,148,,,,,,

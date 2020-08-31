@@ -1,0 +1,5 @@
+'    TdsDataPath(1) = GetIni("フォルダ名", "データ1", mINIfile)
+'    TdsDataPath(2) = GetIni("フォルダ名", "データ2", mINIfile)
+    'TDSFTPpath = GetIni("フォルダ名", "TDSFTPpath", mINIfile)
+'    TDSFTPpath(1) = GetIni("フォルダ名", "TDSFTPpath1", mINIfile)
+'    TDSFTPpath(2) = GetIni("フォルダ名", "TDSFTPpath2", mINIfile)

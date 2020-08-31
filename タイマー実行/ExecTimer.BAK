@@ -1,0 +1,26 @@
+[SYSTEM]
+caption=KNデータ送信
+;ファイルはフルパス名で指定
+FileCo=1
+File1=C:\Windows\notepad.exe
+File2=D:\koj\WEBデータ作成\hyouFile.exe
+File3=D:\koj\WEB用経時図\webKeiji.exe
+File4=D:\koj\データ更新\DataUpdate.exe
+File5=D:\koj\警報メール送信\keihouMail.exe
+File6=D:\koj\速度データ更新\VALapp.exe
+File7=D:\koj\データファイル監視\CheckFileData.exe
+
+[フォルダ名]
+計測データ=
+環境データ=
+Backup=C:\作業用
+
+[計測時間]
+前回計測時間=2017/08/28 10:22:00
+次回計測時間=2017/10/30 13:22:00
+計測インターバル=00:30:00
+
+[Form]
+top=1425
+left=5235
+Zorder=

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>KNdata</name>
+    </assembly>
+    <members>
+        <member name="T:KNdata.IniFile">
+            <summary>
+            INIファイルを読み書きするクラス
+            </summary>
+        </member>
+        <member name="M:KNdata.IniFile.#ctor(System.String)">
+            <summary>
+            ファイル名を指定して初期化します。
+            ファイルが存在しない場合は初回書き込み時に作成されます。
+            </summary>
+        </member>
+        <member name="M:KNdata.IniFile.GetValue(System.String,System.String,System.String)">
+            <summary>
+            sectionとkeyからiniファイルの設定値を取得します。
+            指定したsectionとkeyの組合せが無い場合はdefaultvalueで指定した値が返ります。
+            </summary>
+            <returns>
+            指定したsectionとkeyの組合せが無い場合はdefaultvalueで指定した値が返ります。
+            </returns>
+        </member>
+        <member name="P:KNdata.IniFile.Item(System.String,System.String)">
+            <summary>
+            sectionとkeyからiniファイルの設定値を取得、設定します。 
+            </summary>
+            <returns>指定したsectionとkeyの組合せが無い場合は""が返ります。</returns>
+        </member>
+    </members>
+</doc>

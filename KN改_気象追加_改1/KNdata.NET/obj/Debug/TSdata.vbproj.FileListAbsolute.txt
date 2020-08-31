@@ -1,0 +1,14 @@
+Y:\共有書庫\計測部員の書庫\白石書庫\業務\K_計測部\KN改\KNdata.NET\obj\Debug\Interop.BASP21Lib.dll
+Y:\共有書庫\計測部員の書庫\白石書庫\業務\K_計測部\KN改\KNdata.NET\obj\Debug\Interop.Scripting.dll
+Y:\共有書庫\計測部員の書庫\白石書庫\業務\K_計測部\KN改\KNdata.NET\obj\Debug\Interop.VBScript_RegExp_55.dll
+Y:\共有書庫\計測部員の書庫\白石書庫\業務\K_計測部\KN改\KNdata.NET\obj\Debug\TSdata.vbproj.ResolveComReference.cache
+Y:\共有書庫\計測部員の書庫\白石書庫\業務\K_計測部\KN改\KNdata.NET\obj\Debug\ResolveAssemblyReference.cache
+Y:\共有書庫\計測部員の書庫\白石書庫\業務\K_計測部\KN改\KNdata.NET\bin\KNdata.exe
+Y:\共有書庫\計測部員の書庫\白石書庫\業務\K_計測部\KN改\KNdata.NET\bin\KNdata.pdb
+Y:\共有書庫\計測部員の書庫\白石書庫\業務\K_計測部\KN改\KNdata.NET\bin\KNdata.xml
+Y:\共有書庫\計測部員の書庫\白石書庫\業務\K_計測部\KN改\KNdata.NET\bin\Interop.BASP21Lib.dll
+Y:\共有書庫\計測部員の書庫\白石書庫\業務\K_計測部\KN改\KNdata.NET\bin\Interop.Scripting.dll
+Y:\共有書庫\計測部員の書庫\白石書庫\業務\K_計測部\KN改\KNdata.NET\bin\Interop.VBScript_RegExp_55.dll
+Y:\共有書庫\計測部員の書庫\白石書庫\業務\K_計測部\KN改\KNdata.NET\obj\Debug\KNdata.exe
+Y:\共有書庫\計測部員の書庫\白石書庫\業務\K_計測部\KN改\KNdata.NET\obj\Debug\KNdata.xml
+Y:\共有書庫\計測部員の書庫\白石書庫\業務\K_計測部\KN改\KNdata.NET\obj\Debug\KNdata.pdb

@@ -1,0 +1,15 @@
+2011/04/19 14:13:42  220 FTP Service
+2011/04/19 14:13:42  USER chikah
+2011/04/19 14:13:42  331 Password required for chikah.
+2011/04/19 14:13:42  PASS xxxxx
+2011/04/19 14:13:43  230 User chikah logged in.
+2011/04/19 14:13:43  TYPE I
+2011/04/19 14:13:43  200 Type set to I
+2011/04/19 14:13:43  PORT 210,174,119,64,17,1
+2011/04/19 14:13:43  200 PORT command successful
+2011/04/19 14:13:43  STOR /pic/naikuu.png
+2011/04/19 14:13:44  150 Opening BINARY mode data connection for /pic/naikuu.png
+2011/04/19 14:13:47  12296 bytes sent in 2.45 seconds (5.01 Kbytes/sec)
+2011/04/19 14:13:48  226 Transfer complete.
+2011/04/19 14:13:48  QUIT
+2011/04/19 14:13:48  221 

@@ -1,0 +1,55 @@
+2017/11/21 11:30:21  220 (vsFTPd 3.0.2)
+2017/11/21 11:30:21  USER onuma
+2017/11/21 11:30:21  331 Please specify the password.
+2017/11/21 11:30:21  PASS xxxxx
+2017/11/21 11:30:21  230 Login successful.
+2017/11/21 11:30:21  CWD /data/hizumi/2017
+2017/11/21 11:30:21  250 Directory successfully changed.
+2017/11/21 11:30:21  CWD /data/hizumi/2017/11
+2017/11/21 11:30:21  250 Directory successfully changed.
+2017/11/21 11:30:21  CWD /data/hizumi/2017/11/21
+2017/11/21 11:30:21  550 Failed to change directory.
+2017/11/21 11:30:21  MKD /data/hizumi/2017/11/21
+2017/11/21 11:30:21  257 "/data/hizumi/2017/11/21" created
+2017/11/21 11:30:21  CWD /data/hizumi/2017/11/21
+2017/11/21 11:30:21  250 Directory successfully changed.
+2017/11/21 11:30:21  TYPE I
+2017/11/21 11:30:21  200 Switching to Binary mode.
+2017/11/21 11:30:21  PORT 172,16,64,25,15,165
+2017/11/21 11:30:21  200 PORT command successful. Consider using PASV.
+2017/11/21 11:30:21  STOR 2017-11-21_11-29-47.csv
+2017/11/21 11:30:22  150 Ok to send data.
+2017/11/21 11:30:22  131 bytes sent in 0.01 seconds (13.10 Kbytes/sec)
+2017/11/21 11:30:23  226 Transfer complete.
+2017/11/21 11:30:23  TYPE A
+2017/11/21 11:30:23  200 Switching to ASCII mode.
+2017/11/21 11:30:23  PORT 172,16,64,25,15,167
+2017/11/21 11:30:23  200 PORT command successful. Consider using PASV.
+2017/11/21 11:30:23  LIST
+2017/11/21 11:30:23  150 Here comes the directory listing.
+2017/11/21 11:30:23  81 bytes received in 0.01 seconds (8.10 Kbytes/sec)
+2017/11/21 11:30:24  226 Directory send OK.
+2017/11/21 11:30:24  CWD /data/hizumi/2017
+2017/11/21 11:30:24  250 Directory successfully changed.
+2017/11/21 11:30:24  CWD /data/hizumi/2017/11
+2017/11/21 11:30:24  250 Directory successfully changed.
+2017/11/21 11:30:24  CWD /data/hizumi/2017/11/21
+2017/11/21 11:30:24  250 Directory successfully changed.
+2017/11/21 11:30:24  TYPE I
+2017/11/21 11:30:24  200 Switching to Binary mode.
+2017/11/21 11:30:24  PORT 172,16,64,25,15,169
+2017/11/21 11:30:24  200 PORT command successful. Consider using PASV.
+2017/11/21 11:30:24  STOR 2017-11-21_11-30-00.csv
+2017/11/21 11:30:24  150 Ok to send data.
+2017/11/21 11:30:24  131 bytes sent in 0.01 seconds (13.10 Kbytes/sec)
+2017/11/21 11:30:25  226 Transfer complete.
+2017/11/21 11:30:25  TYPE A
+2017/11/21 11:30:25  200 Switching to ASCII mode.
+2017/11/21 11:30:25  PORT 172,16,64,25,15,171
+2017/11/21 11:30:25  200 PORT command successful. Consider using PASV.
+2017/11/21 11:30:25  LIST
+2017/11/21 11:30:25  150 Here comes the directory listing.
+2017/11/21 11:30:25  162 bytes received in 0.01 seconds (16.20 Kbytes/sec)
+2017/11/21 11:30:25  226 Directory send OK.
+2017/11/21 11:30:25  QUIT
+2017/11/21 11:30:25  Winsock Error 10054

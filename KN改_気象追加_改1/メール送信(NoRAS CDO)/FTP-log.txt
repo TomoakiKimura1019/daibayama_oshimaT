@@ -1,0 +1,57 @@
+2012/04/27 16:07:06  220-FileZilla Server version 0.9.41 beta
+2012/04/27 16:07:06  220-written by Tim Kosse (Tim.Kosse@gmx.de)
+2012/04/27 16:07:06  220 Please visit http://sourceforge.net/projects/filezilla/
+2012/04/27 16:07:06  USER mbkeisya
+2012/04/27 16:07:06  331 Password required for mbkeisya
+2012/04/27 16:07:06  PASS xxxxx
+2012/04/27 16:07:06  230 Logged on
+2012/04/27 16:07:06  CWD /tDATA/TDS_1t/2011
+2012/04/27 16:07:06  250 CWD successful. "/tDATA/TDS_1t/2011" is current directory.
+2012/04/27 16:07:06  CWD /tDATA/TDS_1t/2011/11
+2012/04/27 16:07:06  250 CWD successful. "/tDATA/TDS_1t/2011/11" is current directory.
+2012/04/27 16:07:06  CWD /tDATA/TDS_1t/2011/11/04
+2012/04/27 16:07:06  250 CWD successful. "/tDATA/TDS_1t/2011/11/04" is current directory.
+2012/04/27 16:07:06  TYPE I
+2012/04/27 16:07:06  200 Type set to I
+2012/04/27 16:07:06  PORT 172,16,60,21,15,215
+2012/04/27 16:07:06  200 Port command successful
+2012/04/27 16:07:06  STOR 2011-11-04_11-50-00.dat
+2012/04/27 16:07:06  150 Opening data channel for file transfer.
+2012/04/27 16:07:06  501 bytes sent in 0.01 seconds (50.10 Kbytes/sec)
+2012/04/27 16:07:07  226 Transfer OK
+2012/04/27 16:07:07  TYPE A
+2012/04/27 16:07:07  200 Type set to A
+2012/04/27 16:07:07  PORT 172,16,60,21,15,217
+2012/04/27 16:07:07  200 Port command successful
+2012/04/27 16:07:07  LIST
+2012/04/27 16:07:07  150 Opening data channel for directory list.
+2012/04/27 16:07:08  74 bytes received in 0.01 seconds (7.40 Kbytes/sec)
+2012/04/27 16:07:08  226 Transfer OK
+2012/04/27 16:07:08  CWD /tDATA/TDS_1t/2012
+2012/04/27 16:07:08  550 CWD failed. "/tDATA/TDS_1t/2012": directory not found.
+2012/04/27 16:07:08  MKD /tDATA/TDS_1t/2012
+2012/04/27 16:07:08  257 "/tDATA/TDS_1t/2012" created successfully
+2012/04/27 16:07:08  MKD /tDATA/TDS_1t/2012/04
+2012/04/27 16:07:08  257 "/tDATA/TDS_1t/2012/04" created successfully
+2012/04/27 16:07:08  MKD /tDATA/TDS_1t/2012/04/07
+2012/04/27 16:07:08  257 "/tDATA/TDS_1t/2012/04/07" created successfully
+2012/04/27 16:07:08  CWD /tDATA/TDS_1t/2012/04/07
+2012/04/27 16:07:08  250 CWD successful. "/tDATA/TDS_1t/2012/04/07" is current directory.
+2012/04/27 16:07:08  TYPE I
+2012/04/27 16:07:08  200 Type set to I
+2012/04/27 16:07:08  PORT 172,16,60,21,15,219
+2012/04/27 16:07:08  200 Port command successful
+2012/04/27 16:07:08  STOR 2012-04-07_18-20-00.dat
+2012/04/27 16:07:08  150 Opening data channel for file transfer.
+2012/04/27 16:07:09  501 bytes sent in 0.01 seconds (50.10 Kbytes/sec)
+2012/04/27 16:07:09  226 Transfer OK
+2012/04/27 16:07:09  TYPE A
+2012/04/27 16:07:09  200 Type set to A
+2012/04/27 16:07:09  PORT 172,16,60,21,15,221
+2012/04/27 16:07:09  200 Port command successful
+2012/04/27 16:07:09  LIST
+2012/04/27 16:07:09  150 Opening data channel for directory list.
+2012/04/27 16:07:10  74 bytes received in 0.03 seconds (2.38 Kbytes/sec)
+2012/04/27 16:07:10  226 Transfer OK
+2012/04/27 16:07:10  QUIT
+2012/04/27 16:07:10  Winsock Error -3

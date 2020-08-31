@@ -1,0 +1,9 @@
+WinAPI = 0, 0, 0, 0, C
+frmIntvNew = 66, 87, 890, 486, C, 100, 100, 851, 561, C
+MainModule = 150, 150, 900, 623, 
+RASmodule = 0, 0, 0, 0, C
+modFile = 0, 0, 0, 0, C
+modFiles = 88, 116, 912, 515, 
+MainForm = 25, 25, 776, 486, , 75, 75, 826, 536, C
+modCDOmail = 50, 50, 801, 511, 
+Module1 = 0, 0, 0, 0, C
