@@ -525,6 +525,10 @@ Sub AppendData(ByVal id As Integer, fNam() As String)
     
     Dim wmData(2) As Double
     
+'■■■ ADD START 2020/08/20 T.Kimura エラー発生してもプログラムを中断せず処理を継続させる ■■■
+    On Error Resume Next
+'■■■ ADD END   2020/08/20 T.Kimura エラー発生してもプログラムを中断せず処理を継続させる ■■■
+    
     For i = 0 To sokutenSu(id)
         dt(i).x = 999999
         dt(i).y = 999999
